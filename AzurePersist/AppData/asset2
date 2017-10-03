@@ -1,0 +1,15 @@
+{
+    "id":"Duffy",
+    "jType":"laptop",
+    "created":"2016-03-21T18:25:43.511Z",
+    "modified":"2016-03-21T18:25:43.511Z",
+    "data": {
+        "apps": ["birds", "powerpoint", "gerries"],
+        "phones":"vodaphone",
+        "tables": {
+            "burntorange": 6,
+            "red": 22
+            
+        }
+    }
+}

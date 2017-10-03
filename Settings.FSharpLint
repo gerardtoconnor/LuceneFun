@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FSharpLintSettings xmlns="https://github.com/fsprojects/FSharpLint/blob/master/ConfigurationSchema.xsd">
+  <IgnoreFiles Update="Overwrite"><![CDATA[assemblyinfo.*]]></IgnoreFiles>
+  <Analysers>
+    <SourceLength>
+      <Rules>
+        <MaxLinesInFunction>
+          <Enabled>True</Enabled>
+          <Lines>100</Lines>
+        </MaxLinesInFunction>
+        <MaxLinesInLambdaFunction>
+          <Enabled>True</Enabled>
+          <Lines>7</Lines>
+        </MaxLinesInLambdaFunction>
+      </Rules>
+    </SourceLength>
+  </Analysers>
+</FSharpLintSettings>

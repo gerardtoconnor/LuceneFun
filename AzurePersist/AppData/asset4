@@ -1,0 +1,15 @@
+{
+    "id":"mckeague",
+    "jType":"workstation",
+    "created":"2016-03-21T18:25:43.511Z",
+    "modified":"2016-03-21T18:25:43.511Z",
+    "data": {
+        "apps": ["visual studio", "pycharm"],
+        "pictures": {
+            "hallway": "middle",
+            "office": "by window",
+            "reception": "behind desk"
+        }
+        
+    }
+}

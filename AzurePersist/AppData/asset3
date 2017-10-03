@@ -1,0 +1,15 @@
+{
+    "id":"Oconnor",
+    "jType":"laptop",
+    "created":"2016-03-21T18:25:43.511Z",
+    "modified":"2016-03-21T18:25:43.511Z",
+    "data": {
+        "apps": ["photoshop", "publisher", "protools"],
+        "country":{
+            "ireland": "dublin",
+            "england": "london",
+            "america": "Washington"
+        },
+        "citytype": ["busy", "quiet"]
+    }
+}

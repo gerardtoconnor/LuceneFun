@@ -1,0 +1,17 @@
+{
+    "id":"gunn",
+    "jType":"workstation",
+    "created":"2016-03-21T18:25:43.511Z",
+    "modified":"2016-03-21T18:25:43.511Z",
+    "data":{
+        "picture prices": {
+            "hallway": 170,
+            "office": 150,
+            "reception": 200
+        },
+        "chairs": ["comfortable", "hard", "brown"],
+        "water": "evian",
+        "fridge": "stocked"
+        
+    }
+}
