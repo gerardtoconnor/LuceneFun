@@ -17,10 +17,10 @@ All saved json items/documents have common base shape with json data on "data" p
 
 ```json
 {
-    id:"{###}",
-    jType:"{user set type of data (shape name)}",
-    data:"{json submitted added here to data}"
-    created:"{DateTime int64}"
+    "id":"{###}",
+    "jType":"{user set type of data (shape name)}",
+    "data":"{json submitted added here to data}",
+    "created":"{DateTime int64}"
 }
 ```
 
