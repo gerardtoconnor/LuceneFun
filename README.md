@@ -13,6 +13,8 @@ On wiping of machine (webapp), the index is automatically pulled back in again f
 
 [Lucence.net](https://lucenenet.apache.org/)
 
+Most function use streams to maximise performance and allow efficient use on web server reading/writing from request/response streams. 
+
 All saved json items/documents have common base shape with json data on "data" property:
 
 ```json
